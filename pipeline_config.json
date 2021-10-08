@@ -2,6 +2,6 @@
 	"ApplicationName":"Invoice_Transaction_UI",
  	"BuildTool":"npm",
 	"BuildName":"Invoice_App_Ver2.37",
- 	"BuildType":"react_build"
+ 	"BuildType":"React_Build"
  
 }
