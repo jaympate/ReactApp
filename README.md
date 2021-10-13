@@ -1,2 +1,2 @@
 # ReactApplication
-This repository contains the sample react application used for Dynamic DevOps Pipeline solution demo
+This repository contains sample react application used for Dynamic DevOps Pipeline solution demo
