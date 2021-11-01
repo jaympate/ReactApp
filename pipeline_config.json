@@ -1,4 +1,4 @@
-{	"ApplicationType":"React",
+{	"ApplicationType":"dotnet",
 	"ApplicationName":"Invoice_Transaction_UI",
  	"BuildTool":"npm",
 	"BuildName":"Invoice_App_Ver3.27",
