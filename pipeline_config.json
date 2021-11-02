@@ -1,5 +1,5 @@
 {	"ApplicationType":"dotnet",
-	"ApplicationName":"Invoice_Transaction_UI",
+	"ApplicationName":"Dotnet Application",
  	"BuildTool":"npm",
 	"BuildName":"Invoice_App_Ver3.30",
  	"BuildType":"dotnet"
